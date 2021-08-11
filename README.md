@@ -8,7 +8,7 @@ React
 
 
 📫 How to reach me: 
-LinkedIn: https://www.linkedin.com/in/jovana-milojevic-83840915b/
+LinkedIn: https://www.linkedin.com/in/jovana-milojevic-83840915b/ <br>
 Gmail: jovanamilojevicofficial@gmail.com
 Github: https://github.com/jojo-dev
 Website: https://www.milojevicjovana.com/
