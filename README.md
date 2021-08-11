@@ -3,11 +3,8 @@
 I am Jovana Milojevic. 
 
 🌱 I’m currently learning:
-<ul >
-<li style="list-style-type:circle">Node.Js</li>
-<li style="list-style-type:circle">React</li>
-  </ul>
-
+<li>Node.Js</li>
+<li>React</li>
 
 📫 How to reach me: <br>
 LinkedIn: https://www.linkedin.com/in/jovana-milojevic-83840915b/ <br>
