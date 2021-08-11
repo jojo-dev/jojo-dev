@@ -3,8 +3,10 @@
 I am Jovana Milojevic. 
 
 🌱 I’m currently learning:
+<ul list-style-type: circle>
 <li>Node.Js</li>
-React
+<li>React</li>
+  </ul>
 
 
 📫 How to reach me: <br>
