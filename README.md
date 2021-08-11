@@ -3,7 +3,7 @@
 I am Jovana Milojevic. 
 
 🌱 I’m currently learning:
-Node.Js
+<li>Node.Js</li>
 React
 
 
