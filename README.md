@@ -3,9 +3,9 @@
 I am Jovana Milojevic. 
 
 🌱 I’m currently learning:
-<ul style="list-style-type:circle">
-<li>Node.Js</li>
-<li>React</li>
+<ul >
+<li style="list-style-type:circle">Node.Js</li>
+<li style="list-style-type:circle">React</li>
   </ul>
 
 
