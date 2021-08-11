@@ -6,7 +6,7 @@ I am Jovana Milojevic.
 <li>Node.Js</li>
 <li>React</li>
 <br><br>
-📫 How to reach me: <br>
+📫 You can reach me: <br>
 LinkedIn: https://www.linkedin.com/in/jovana-milojevic-83840915b/ <br>
 Gmail: jovanamilojevicofficial@gmail.com <br>
 Github: https://github.com/jojo-dev <br>
