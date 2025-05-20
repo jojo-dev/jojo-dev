@@ -7,10 +7,9 @@ I am Jovana Milojevic.
 <li>React</li>
 <br><br>
 📫 You can reach me: <br>
-LinkedIn: https://www.linkedin.com/in/jovana-milojevic/ <br>
+LinkedIn: https://www.linkedin.com/in/milojevic-jovana/ <br>
 Gmail: jovanamilojevicofficial@gmail.com <br>
-Github: https://github.com/jojo-dev <br>
-Website: https://www.milojevicjovana.com/ <br>
+Github: https://github.com/jojo-dev<br>
 <br><br>
 
 
